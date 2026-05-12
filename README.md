@@ -30,6 +30,25 @@ Le modèle a été entraîné sur un dataset d’IRM cérébrales contenant plus
 - Affichage des probabilités
 - Interface utilisateur interactive avec Gradio
 
+#3Limites du Projet
+
+Ce système constitue une aide au diagnostic et ne remplace pas l’avis d’un médecin spécialiste.
+
+Les résultats dépendent :
+
+de la qualité des images IRM,
+du dataset utilisé,
+du niveau d’entraînement du modèle.
+
+## Exécution sur Google Colab
+
+Le projet a été développé et exécuté sur Google Colab.
+
+Étapes :
+1. Ouvrir le notebook `.ipynb`
+2. Monter Google Drive
+3. Charger le modèle `.h5`
+4. Exécuter toutes les cellules
 ## Lancement du projet
 
 ### Installation des bibliothèques
