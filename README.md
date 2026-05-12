@@ -45,3 +45,13 @@ Les résultats dépendent :
 de la qualité des images IRM,
 du dataset utilisé,
 du niveau d’entraînement du modèle.
+
+## Exécution sur Google Colab
+
+Le projet a été développé et exécuté sur Google Colab.
+
+Étapes :
+1. Ouvrir le notebook `.ipynb`
+2. Monter Google Drive
+3. Charger le modèle `.h5`
+4. Exécuter toutes les cellules
