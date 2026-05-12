@@ -1,4 +1,4 @@
-# Détection Précoce de la Maladie d'Alzheimer avec Deep Learning
+# Détection Précoce de la Maladie d'Alzheimer avec Machine Learning
 
 ## Description
 Ce projet utilise l’intelligence artificielle et le deep learning pour détecter précocement la maladie d’Alzheimer à partir d’images IRM cérébrales.
