@@ -35,3 +35,13 @@ Le modèle a été entraîné sur un dataset d’IRM cérébrales contenant plus
 ### Installation des bibliothèques
 ```bash
 pip install tensorflow gradio opencv-python numpy pillow
+
+#Limites du Projet
+
+Ce système constitue une aide au diagnostic et ne remplace pas l’avis d’un médecin spécialiste.
+
+Les résultats dépendent :
+
+de la qualité des images IRM,
+du dataset utilisé,
+du niveau d’entraînement du modèle.
