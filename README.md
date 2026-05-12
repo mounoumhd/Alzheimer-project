@@ -8,6 +8,8 @@ L’application permet à l’utilisateur de charger une image IRM et d’obteni
 - un niveau de risque,
 - une explication médicale,
 - les probabilités de chaque classe.
+- 
+“Notre projet combine Intelligence Artificielle et Big Data. Nous utilisons TensorFlow/Keras pour le modèle de deep learning, PySpark pour le traitement des données massives, et Gradio pour créer une interface utilisateur interactive. L’ensemble est développé sur Google Colab avec un dataset Kaggle et un modèle stocké sur Google Drive.”
 
 ## Technologies utilisées
 - Python
