@@ -16,7 +16,7 @@ L’application permet à l’utilisateur de charger une image IRM et d’obteni
 - TensorFlow / Keras
 - Gradio
 - NumPy
-- OpenCV
+  
 - Google Colab
 
 ## Dataset
